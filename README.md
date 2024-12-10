@@ -45,4 +45,4 @@ This project uses **Tableau** to analyze and visualize flight delays, cancellati
 
 Access the interactive dashboard on Tableau Public:
 
-[https://public.tableau.com/app/profile/drashti.gabani/viz/FlightDelaysandCancellation_17307529242070/Story1  ](https://)
+https://public.tableau.com/app/profile/drashti.gabani/viz/FlightDelaysandCancellation_17307529242070/Story1  
